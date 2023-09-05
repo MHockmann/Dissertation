@@ -9,7 +9,6 @@ plot(x,y0,'r--',x,y1,'g-.',x,yhalf,'k',x,yminushalf,'m:')
 
 legend('$J_0(x)$', '$J_1(x)$', '$J_{1/2}(x)$', '$J_{-1/2}(x)$','Interpreter','Latex','FontSize',18)
 axis([-0.01 10.001 -0.5 2])
-%drawaxis(gca, 'x', 0, 'movelabel', 1)
 ax = gca;
 ax.XAxisLocation = 'origin';
 ax.YAxisLocation = 'origin';
