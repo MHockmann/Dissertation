@@ -12,7 +12,7 @@ The code written in MATLAB is ordered by the chapters of the dissertation.
 This folder contains some code used to produce figures of minorant functions.
   
 ### Chapter 2: Condition of sparse super resolution
-   Code for the visualisation of the bivariate diffraction limit can be fouhnd there.
+   Code for the visualisation of the bivariate diffraction limit and of the proposed admissible functions can be found there.
    
 ### Chapter 3: Trigonometric polynomials and rational functions
    1. Variant of the experiment from a [paper together with P. Catala, S. Kunis and M. Wageringel](https://github.com/Paulcat/Measure-trigo-approximations) which is available as a [preprint](https://arxiv.org/abs/2203.10531v2). 
