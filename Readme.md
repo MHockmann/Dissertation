@@ -1,6 +1,6 @@
 # Dissertation - Sparse super resolution 
 
-In this project, you can find the code related to my dissertation on "Sparse super resolution in microscopy: Condition, diffraction limit and trigonometric approximations" which I will hand in in the next weeks. 
+In this project, you can find the code related to my PhD thesis on "Sparse super resolution in microscopy: Condition, diffraction limit and trigonometric approximations" which I will hand in in the next weeks. 
 The code written in MATLAB is ordered by the chapters of the dissertation. 
 
 ## Content
