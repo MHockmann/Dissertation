@@ -1,0 +1,10 @@
+N=1000000;
+y=5*ones(N,1);
+sigma=0.3;
+z=poiss_sample(y)+sigma*randn(N,1);
+f_z=zeros(N,1);
+f_z(z>-3/8-sigma^2)=2*sqrt(z(z>-3/8-sigma^2)+3/8+sigma^2);
+subplot(1,2,1)
+histogram(z,50)
+subplot(1,2,2)
+histogram(f_z,50)
