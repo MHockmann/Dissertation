@@ -24,4 +24,4 @@ This folder contains some code used to produce figures of minorant functions.
 
 ## Usage
 
-Just run the included scripts in MATLAB.
+Just run the included scripts in MATLAB. For some chapters, further details are provided how to use the code.
